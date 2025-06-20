@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Tianqi-Wang1](https://github.com/Tianqi-Wang1)]
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Welcome to my personal homepage!\
+
+I am currently pursuing an MSc in Computer Graphics, Vision and Imaging at University College London, UK. At the same time, I work as a research assistant in the Department of Computing at The Hong Kong Polytechnic University under the supervision of Dr. Jingcai Guo. Previously, I earned a Bachelor of Engineering in Artificial Intelligence from Huazhong University of Science and Technology.\
+
+My research interests focus on open-world setting and distribution-shift problems, such as Continual Learning and Out-of-Distribution Detection.
 
 #### Email
-sli[at]cumt.edu.cn
+tianqi.wang.23[at]ucl.ac.uk
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Computer Graphics, Vision and Imaging MSc, University College London (UCL), United Kingdom, 2024-2025 (expected).\
+B.E. in Artificial Intelligence, Huazhong University of Science and Technology (HUST), China, 2020-2024.
