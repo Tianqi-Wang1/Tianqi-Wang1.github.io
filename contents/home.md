@@ -1,6 +1,6 @@
 
 
-[![Tianqi-Wang1](https://img.shields.io/badge/Tianqi-Wang1-github-blue?logo=github)](https://github.com/Tianqi-Wang1)
+[![Tianqi-Wang1](https://img.shields.io/badge/Tianqi--Wang1-github-blue?logo=github)](https://github.com/Tianqi-Wang1)
 
 I am currently pursuing an MSc in Computer Graphics, Vision and Imaging at University College London, UK. At the same time, I work as a research assistant in the Department of Computing at The Hong Kong Polytechnic University under the supervision of Dr. Jingcai Guo. Previously, I earned a Bachelor of Engineering in Artificial Intelligence from Huazhong University of Science and Technology.
 
