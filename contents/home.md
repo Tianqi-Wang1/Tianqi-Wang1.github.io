@@ -11,4 +11,5 @@ tianqi.wang.23[at]ucl.ac.uk
 
 #### Education
 Computer Graphics, Vision and Imaging MSc, University College London (UCL), United Kingdom, 2024-2025 (expected).
+
 B.E. in Artificial Intelligence, Huazhong University of Science and Technology (HUST), China, 2020-2024.
