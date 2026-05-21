@@ -7,7 +7,7 @@ I am currently a Ph.D. student in the Department of Computing at The Hong Kong P
 My research interests mainly focus on continual learning, out-of-distribution detection, and vision-language models, with a particular emphasis on VLM-based adaptation and open-world recognition.
 
 #### Email
-tian-qi.wang.23[at]connect.polyu.hk
+tian-qi.wang[at]connect.polyu.hk
 
 #### Education
 Ph.D. in Artificial Intelligence and Big Data Computing, The Hong Kong Polytechnic University, Hong Kong SAR, China, 2026-present.
