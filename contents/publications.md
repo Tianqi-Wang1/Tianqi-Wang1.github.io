@@ -1,3 +1,5 @@
+- <strong>T. Wang</strong>, & J. Guo#. GR4CIL: Gap-compensated Routing for CLIP-based Class Incremental Learning. arXiv preprint arXiv:2604.17822, 2026.
+
 - <strong>T. Wang</strong>, J. Guo#, D. Li, & Z. Chen. On the Discrimination and Consistency for Exemplar-Free Class Incremental Learning.
 International Joint Conference on Artificial Intelligence (IJCAI, CCF-A), 2025.
 
