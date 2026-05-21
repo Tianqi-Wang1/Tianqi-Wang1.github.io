@@ -2,14 +2,16 @@
 
 [![Tianqi-Wang1](https://img.shields.io/badge/Tianqi--Wang1-github-blue?logo=github)](https://github.com/Tianqi-Wang1)
 
-I am currently pursuing an MSc in Computer Graphics, Vision and Imaging at University College London, UK. At the same time, I work as a research assistant in the Department of Computing at The Hong Kong Polytechnic University under the supervision of Dr. Jingcai Guo. Previously, I earned a Bachelor of Engineering in Artificial Intelligence from Huazhong University of Science and Technology.
+I am currently a Ph.D. student in the Department of Computing at The Hong Kong Polytechnic University, supervised by Dr. Jingcai Guo. Previously, I received my MSc in Computer Graphics, Vision and Imaging from University College London, and my B.E. in Artificial Intelligence from Huazhong University of Science and Technology.
 
-My research interests focus on open-world setting and distribution-shift problems, such as Continual Learning and Out-of-Distribution Detection.
+My research interests mainly focus on continual learning, out-of-distribution detection, and vision-language models, with a particular emphasis on VLM-based adaptation and open-world recognition.
 
 #### Email
-tianqi.wang.23[at]ucl.ac.uk
+tian-qi.wang.23[at]connect.polyu.hk
 
 #### Education
-Computer Graphics, Vision and Imaging MSc, University College London (UCL), United Kingdom, 2024-2025 (expected).
+Ph.D. in Artificial Intelligence and Big Data Computing, The Hong Kong Polytechnic University, Hong Kong SAR, China, 2026-present.
 
-B.E. in Artificial Intelligence, Huazhong University of Science and Technology (HUST), China, 2020-2024.
+MSc in Computer Graphics, Vision and Imaging, University College London, United Kingdom, 2024-2025.
+
+B.E. in Artificial Intelligence, Huazhong University of Science and Technology, China, 2020-2024.
